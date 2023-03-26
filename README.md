@@ -2,8 +2,7 @@
 
 ## 사용
 
-1. 프로젝트를 zip으로 다운받고 프로젝트 내에 압축을 푼다.
-2. terminal에서 cd project를 입력해 경로 이동을 한 후
+1. 프로젝트 clone
 3. npm install 을 해서 node_modules을 설치한다.
 4. npm start해서 화면 열리면 끝~!!!!
 
